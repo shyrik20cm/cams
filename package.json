@@ -1,0 +1,22 @@
+{
+  "name": "cams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "root@46.161.15.91:/var/www/html/cams/cams.git/"
+  },
+  "author": "",
+  "license": "ISC"
+}
